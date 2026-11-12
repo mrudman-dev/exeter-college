@@ -1,0 +1,4 @@
+101|12 High Street|Exeter|Flat|950|Available
+102|8 Station Road|Bristol|House|1450|Occupied
+103|24 Queen Street|Plymouth|Flat|1100|Available
+1|16 WATTISHAM ROAD KINGSWAY|GLOUCESTER|Home|6000|Available
